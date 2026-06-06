@@ -1,2 +1,2 @@
-# midi-me
-Simple MIDI, note, frequency conversion + QWERTY keyboard numbers
+# note2freq2midi
+Simple note, frequency, MIDI conversion + QWERTY keyboard numbers
